@@ -1,0 +1,1 @@
+qrc和createComponent的路径都要是./Printer/PrinterDialog.qml，奇怪，不知道为什么非要如此

@@ -1,0 +1,3 @@
+del *.qmlc /s
+
+pause

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/kr_sl_bt_subtotal_print.png</file>
+        <file>images/kr_sl_bt_loadcell.png</file>
+        <file>images/kr_sl_bt_WES.png</file>
+        <file>images/kr_sl_bt_info_i.png</file>
+        <file>Printer/PrinterDialog.qml</file>
+    </qresource>
+</RCC>
